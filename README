@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------------------------------------
+
+SHOPW/ME
+
+Team Project
+
+BESTEM Hackathon second place winner
+
+------------------------------------------------------------------------------------------------------------------------
+
+OBJECTIVE:
+    Help people with locomotor problems find the shortest path to items list made by them on the site.
+
+WORKING FEATURES:
+    Home Page, one shop that has 20 items to choose from.
+    Shoping cart to add and remove items.
+    Map of the shop that shows the shortest path to items.
+
+TODOS:
+    Find the closest and cheapest shop that has all items.
+    Add voice commands.
+    Add more shops.
+
+------------------------------------------------------------------------------------------------------------------------
+
+HOW TO OPEN SITE:
+
+    Open project in Visual Studio Code, go to index.html and press the "Go Live" button on the bottom right.
+    
+------------------------------------------------------------------------------------------------------------------------
