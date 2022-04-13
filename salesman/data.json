@@ -1,0 +1,6 @@
+{
+  "data": [
+    {"name":"Ciabatta", "id":1, "x":2, "y": 2}, {"name":"Rulou mere", "id":2, "x":2, "y": 4}, {"name":"Chifla Kaiser", "id":3, "x":2, "y": 6}, {"name":"Pain au chocolat", "id":4, "x":2, "y": 8}, 
+    {"name":"Gouda", "id":7, "x":4, "y": 2}, {"name":"Muschi", "id":13, "x":4, "y": 4}, {"name":"Unt", "id":10, "x":4, "y": 6}, {"name":"Carnati Sticks", "id":11, "x":4, "y": 8}, {"name":"Apa cu lamaie", "id":16, "x":2, "y": 6}
+     ]
+  }
